@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fuel App</string>
+    <string-array name="fuelTypes">
+        <item>Petrol(92 Octane)</item>
+        <item>Petrol(95 Octane EURO 4)</item>
+        <item>Diesel(Auto Diesel)</item>
+        <item>Diesel(Lanka Super Diesel 4 star)</item>
+        <item>Furnace Oil</item>
+        <item>Naptha</item>
+        <item>Lanka SBP 60/145</item>
+        <item>Lanka L.P.G</item>
+        <item>Lanka Industrial Kerosene</item>
+        <item>Bitumen</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
